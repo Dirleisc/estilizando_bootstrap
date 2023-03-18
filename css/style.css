@@ -1,0 +1,31 @@
+*{
+   font-family: serif;
+}
+.navbar{
+   background-color: #fcfc00;
+   font-weight:400;
+   display: flex;
+   justify-content: space-between;
+}
+.img-logo{
+   border-radius: 50%;
+}
+#quemsomos{
+   background-color: #808080;
+}
+.margin{
+   padding-bottom:  20px;
+   padding-top: 50px;
+   color: #ffffff;
+}
+
+.parceiros{
+   background-color: #d3d3d3;
+}
+#servicos{
+   background-color:#d3d3d3;
+}
+.rodape{
+   background-color: black ;
+   color: whitesmoke;
+}
